@@ -1,0 +1,60 @@
+-------------------------------
+	Cart:
+1. 1pc Chicken with Side, Rice & Drink	x1	 | P110
+					TOTAL: P110
+-------------------------------
+Your Total is : P110
+Enter Cash Amount: P200
+Your change is : P90
+Thank you for ordering! 
+Checkout time: 06-06-2025 02:51:48
+-------------------------------
+	Cart:
+1. Flavor Shots with Rice	x3	 | P150
+					TOTAL: P150
+-------------------------------
+Your Total is : P150
+Enter Cash Amount: P200
+Your change is : P50
+Thank you for ordering! 
+Checkout time: 06-06-2025 02:52:01
+-------------------------------
+	Cart:
+1. 1pc Chicken with Side, Rice & Drink	x1	 | P110
+					TOTAL: P110
+-------------------------------
+Your Total is : P110
+Enter Cash Amount: P200
+Your change is : P90
+Thank you for ordering! 
+Checkout time: 06-06-2025 16:13:05Cashier name: carltan
+-------------------------------
+	Cart:
+1. 1pc Chicken with Side, Rice & Drink	x4	 | P440
+					TOTAL: P440
+-------------------------------
+-------------------------------
+	Cart:
+1. 2pc Chicken with Side, Rice & Drink	x1	 | P180
+2. 1pc Chicken with Rice, & Drink	x2	 | P198
+3. 2pc Chicken with Rice, & Drink	x1	 | P170
+					TOTAL: P548
+-------------------------------
+Your Total is : P548
+Enter Cash Amount: P600
+Your change is : P52
+Thank you for ordering! 
+Checkout time: 06-06-2025 17:58:55
+Cashier name: carltan
+-------------------------------
+	Cart:
+1. Flavor Shots with Rice	x10	 | P500
+2. Flavor Shots with Side, Rice & Drink	x2	 | P178
+					TOTAL: P678
+-------------------------------
+Your Total is : P678
+Enter Cash Amount: P1000
+Your change is : P322
+Thank you for ordering! 
+Checkout time: 06-06-2025 17:59:36
+Cashier name: carltan
